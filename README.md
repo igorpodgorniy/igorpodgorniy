@@ -3,7 +3,7 @@
 
 ## Контакты
 - **E-mail:** ipod-92@mail.ru<br/>
-- **Telegram:** @IgorPodgorniy<br/>
+- **Telegram:** <a href="https://t.me/IgorPodgorniy">@IgorPodgorniy</a><br/>
 
 ## Обо мне
 Закончил Университет ИТМО по специальности информационная безопасность.
