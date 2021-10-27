@@ -13,6 +13,11 @@
 
 Я верю, что моя способность учиться и приобретать новые навыки приведет меня к тому, что я стану опытным Frontend разработчиком.
 
+Любимая тема в VS Code - Rosé Pine. Вы только посмотрите!
+<br/>
+<br/>
+![Rosé Pine](https://github.com/igorpodgorniy/igorpodgorniy/raw/main/RosePine.PNG)<br/>
+
 ## Навыки
 - HTML5, CSS3
 - JavaScript
