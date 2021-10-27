@@ -17,7 +17,8 @@
 - HTML5, CSS3
 - JavaScript
 - Git, GitHub
-- VS Code, Figma
+- VS Code, Figma<br/>
+_Сейчас активно изучаю React._
 
 ## Образование
 **ВУЗ:** Университет ИТМО<br/>
