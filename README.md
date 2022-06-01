@@ -18,10 +18,10 @@
 - JavaScript
 - Git, GitHub
 - VS Code, Figma<br/>
-_Сейчас активно изучаю React._
 
 ## Образование
 **ВУЗ:** Университет ИТМО<br/>
 **Курсы:**</br>
 - <a href="https://cs50.harvard.edu/x/2021/">CS50 лекции</a>
 - <a href="https://www.freecodecamp.org/">FreeCodeCamp</a>
+- учусь на курсе <a href="https://practicum.yandex.ru/web/">Веб-разработчик</a> от Яндекс.Практикума
